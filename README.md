@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ByeongHunPark&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ByeonghunPark&fontSize=90" />
 
 - 👋 Hi, I’m @ByeongHunPark
 - I'm iOS developer.
